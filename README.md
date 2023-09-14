@@ -8,8 +8,7 @@ upload-ai
   <a href="#-LAYOUT">LAYOUT</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-BACKEND">BACKEND</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-FRONTEND">FRONTEND</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-COMO-BAIXAR-E-RODAR">COMO BAIXAR E RODAR</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-
+  <a href="#-COMO-BAIXAR-E-RODAR-O-PROEJETO">COMO BAIXAR E RODAR O PROJETO</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-LICENÇA">LICENÇA</a>
 </p>
 
