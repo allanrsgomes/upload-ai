@@ -5,9 +5,11 @@ upload-ai
 
 <p align="center">
   <a href="#-SOBRE">SOBRE</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-TECNOLOGIAS">TECNOLOGIAS</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-COMO-BAIXAR-E-RODAR-O-PROJETO">COMO BAIXAR E RODAR O PROJETO</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-LAYOUT">LAYOUT</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-BACKEND">BACKEND</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-FRONTEND">FRONTEND</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-COMO-BAIXAR-E-RODAR-O-PROJETO">COMO BAIXAR E RODAR O PROJETO</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+
   <a href="#-LICENÇA">LICENÇA</a>
 </p>
 
@@ -22,7 +24,7 @@ upload-ai
 
 ---
 
-## 🛠 TECNOLOGIAS BACKEND
+## 🛠 BACKEND
 
 - [Node](https://nodejs.org/en)
 - [Prisma](https://www.prisma.io/)
@@ -32,7 +34,7 @@ upload-ai
 
 ---
 
-## 🛠 TECNOLOGIAS FRONTEND
+## 🛠 FRONTEND
 
 - [Vite](https://vitejs.dev/guide/)
 - [TailwindCSS](https://tailwindcss.com/)
