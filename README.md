@@ -45,7 +45,7 @@ upload-ai
 
 ---
 
-## 🚀 COMO BAIXAR E RODAR O PROJETO
+## 🚀 COMO BAIXAR E RODAR
 
 ### Clonar repositório
 
