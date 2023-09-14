@@ -84,7 +84,7 @@ yarn start
 
 ## 📝 LICENÇA
 
-Seu projeto está licenciado sob a Licença MIT. Veja a [LICENSE](LICENSE.md).
+Projeto está licenciado sob a Licença MIT. Veja a [LICENSE](LICENSE.md).
 
 ---
 
