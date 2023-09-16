@@ -14,7 +14,7 @@ video-converter-ai
 
 ## 🎧 SOBRE
 
-Este projeto foi desenvolvido durante a _NLW IA_, evento promovido pela [Rocketseat](https://rocketseat.com.br). O upload.ia consiste em uma aplicação que possibilita realizar upload de videos e por meio de IA, criar automaticamente títulos chamativos e descrições com um boa indexação...
+Este projeto foi desenvolvido durante a _NLW IA_, evento promovido pela [Rocketseat](https://rocketseat.com.br). O video-converter-ai consiste em uma aplicação que possibilita realizar upload de videos e por meio de IA, criar automaticamente títulos chamativos e descrições com um boa indexação...
 <p>Faz o Upload do vídeo -> Converte de vídeo para audio -> converte de audio para texto -> Apartir de promts cadastrados você pode gerar resultados diversos.</p>
 
 ## 🔖 LAYOUT
@@ -50,7 +50,7 @@ Este projeto foi desenvolvido durante a _NLW IA_, evento promovido pela [Rockets
 ### Clonar repositório
 
 ```shell
-git clone https://github.com/allanrsgomes/upload-ai.git && cd upload-ai
+git clone https://github.com/allanrsgomes/video-converter-ai.git && cd video-converter-ai
 ```
 
 ### Instalar dependencias
