@@ -1,6 +1,6 @@
 
 <h1 align="center">
-upload-ai
+video-converter-ai
 </h1>
 
 <p align="center">
